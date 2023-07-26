@@ -6,7 +6,7 @@ function setNewTask(Component) {
       id: "",
       type: "",
       priority: "",
-      user: "M. Thompson",
+      user: "Sanil S.",
       text: "",
       avatar: "./41aad055f35eb28f42b84ca1b4cf5d53.jpg",
       comments: "0",
